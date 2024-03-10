@@ -1,5 +1,5 @@
 import { createContext, useEffect } from 'react';
-import './App.css';
+import './App.scss';
 import { ApplicationContextType } from './resources/types';
 import { GameBoard } from './Components/game/gameBoard';
 import { useHooks } from './hooks/useHooks';
